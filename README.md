@@ -1,4 +1,3 @@
-Tugas Data Mining
-Nama: Muhamad Rahmat Fadila
-Kelas: 04TPLE020
-NIM: 221011401777
+Muhamad Rahmat Fadila
+04TPLE020
+221011401777
